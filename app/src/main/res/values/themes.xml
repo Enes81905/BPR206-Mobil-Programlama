@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Bankamobil" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/bank_primary</item>
+        <item name="android:statusBarColor">@color/bank_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Bankamobil" parent="Base.Theme.Bankamobil" />
+</resources>

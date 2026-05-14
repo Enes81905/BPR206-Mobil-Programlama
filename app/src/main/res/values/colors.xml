@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bank_primary">#003366</color>
+    <color name="bank_green">#00A651</color>
+    <color name="bank_red">#C62828</color>
+    <color name="bank_blue">#1565C0</color>
+    <color name="background">#F0F4F8</color>
+</resources>
